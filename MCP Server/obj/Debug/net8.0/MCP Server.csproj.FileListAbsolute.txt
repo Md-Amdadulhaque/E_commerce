@@ -1,0 +1,47 @@
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\appsettings.Development.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\appsettings.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\MCP Server.staticwebassets.endpoints.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\MCP Server.exe
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\MCP Server.deps.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\MCP Server.runtimeconfig.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\MCP Server.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\MCP Server.pdb
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Microsoft.Extensions.AI.Abstractions.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\ModelContextProtocol.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\ModelContextProtocol.AspNetCore.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\ModelContextProtocol.Core.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.csproj.AssemblyReference.cache
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.GeneratedMSBuildEditorConfig.editorconfig
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.AssemblyInfoInputs.cache
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.AssemblyInfo.cs
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.csproj.CoreCompileInputs.cache
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.MvcApplicationPartsAssemblyInfo.cs
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.MvcApplicationPartsAssemblyInfo.cache
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.sourcelink.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\scopedcss\bundle\MCP Server.styles.css
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets.build.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets.development.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets\msbuild.MCP Server.Microsoft.AspNetCore.StaticWebAssets.props
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets\msbuild.MCP Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets\msbuild.build.MCP Server.props
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MCP Server.props
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MCP Server.props
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets.pack.json
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.csproj.Up2Date
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\refint\MCP Server.dll
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.pdb
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\MCP Server.genruntimeconfig.cache
+U:\Ecommerce-master\Ecommerce-master\MCP Server\obj\Debug\net8.0\ref\MCP Server.dll

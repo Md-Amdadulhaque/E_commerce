@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UOanWh20zMNGI3nYNRCmn5eCe6WrrmC1pQB18NVnX8E=",
+  "Source": "MCP Server",
+  "BasePath": "_content/MCP Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
